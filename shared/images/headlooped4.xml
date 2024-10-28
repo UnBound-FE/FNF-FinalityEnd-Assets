@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="headlooped4.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="headlopped40000" x="10" y="10" width="541" height="336" frameX="-3" frameY="-5" frameWidth="545" frameHeight="343"/>
+	<SubTexture name="headlopped40001" x="10" y="10" width="541" height="336" frameX="-3" frameY="-5" frameWidth="545" frameHeight="343"/>
+	<SubTexture name="headlopped40002" x="561" y="10" width="545" height="324" frameX="0" frameY="-19" frameWidth="545" frameHeight="343"/>
+	<SubTexture name="headlopped40003" x="561" y="10" width="545" height="324" frameX="0" frameY="-19" frameWidth="545" frameHeight="343"/>
+	<SubTexture name="headlopped40004" x="1116" y="10" width="538" height="336" frameX="-3" frameY="-5" frameWidth="545" frameHeight="343"/>
+	<SubTexture name="headlopped40005" x="1116" y="10" width="538" height="336" frameX="-3" frameY="-5" frameWidth="545" frameHeight="343"/>
+	<SubTexture name="headlopped40006" x="10" y="356" width="534" height="338" frameX="-5" frameY="-2" frameWidth="545" frameHeight="343"/>
+	<SubTexture name="headlopped40007" x="10" y="356" width="534" height="338" frameX="-5" frameY="-2" frameWidth="545" frameHeight="343"/>
+	<SubTexture name="headlopped40008" x="554" y="356" width="535" height="340" frameX="-5" frameY="0" frameWidth="545" frameHeight="343"/>
+	<SubTexture name="headlopped40009" x="554" y="356" width="535" height="340" frameX="-5" frameY="0" frameWidth="545" frameHeight="343"/>
+	<SubTexture name="headlopped40010" x="1099" y="356" width="535" height="340" frameX="-5" frameY="0" frameWidth="545" frameHeight="343"/>
+	<SubTexture name="headlopped40011" x="1099" y="356" width="535" height="340" frameX="-5" frameY="0" frameWidth="545" frameHeight="343"/>
+	<SubTexture name="headlopped40012" x="1099" y="356" width="535" height="340" frameX="-5" frameY="0" frameWidth="545" frameHeight="343"/>
+	<SubTexture name="headlopped40013" x="1099" y="356" width="535" height="340" frameX="-5" frameY="0" frameWidth="545" frameHeight="343"/>
+	<SubTexture name="headlopped40014" x="1099" y="356" width="535" height="340" frameX="-5" frameY="0" frameWidth="545" frameHeight="343"/>
+</TextureAtlas>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="selectors.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrorLeft0000" x="10" y="10" width="103" height="125"/>
+	<SubTexture name="arrorLeft0001" x="10" y="10" width="103" height="125"/>
+	<SubTexture name="arrorLeft0002" x="10" y="10" width="103" height="125"/>
+	<SubTexture name="arrorLeft0003" x="10" y="10" width="103" height="125"/>
+	<SubTexture name="arrorLeft0004" x="10" y="10" width="103" height="125"/>
+	<SubTexture name="arrorLeft0005" x="10" y="10" width="103" height="125"/>
+	<SubTexture name="arrorLeft-press0000" x="123" y="10" width="103" height="125"/>
+	<SubTexture name="arrorLeft-press0001" x="123" y="10" width="103" height="125"/>
+	<SubTexture name="arrorLeft-press0002" x="123" y="10" width="103" height="125"/>
+	<SubTexture name="arrorLeft-press0003" x="123" y="10" width="103" height="125"/>
+	<SubTexture name="arrorLeft-press0004" x="123" y="10" width="103" height="125"/>
+	<SubTexture name="arrorLeft-press0005" x="123" y="10" width="103" height="125"/>
+	<SubTexture name="arrorLeft-press0006" x="123" y="10" width="103" height="125"/>
+	<SubTexture name="arrorLeft-press0007" x="123" y="10" width="103" height="125"/>
+	<SubTexture name="arrorLeft-press0008" x="123" y="10" width="103" height="125"/>
+	<SubTexture name="arrorLeft-press0009" x="123" y="10" width="103" height="125"/>
+	<SubTexture name="arrorLeft-press0010" x="123" y="10" width="103" height="125"/>
+	<SubTexture name="arrowRight0000" x="236" y="10" width="102" height="126"/>
+	<SubTexture name="arrowRight0001" x="236" y="10" width="102" height="126"/>
+	<SubTexture name="arrowRight0002" x="236" y="10" width="102" height="126"/>
+	<SubTexture name="arrowRight0003" x="236" y="10" width="102" height="126"/>
+	<SubTexture name="arrowRight0004" x="236" y="10" width="102" height="126"/>
+	<SubTexture name="arrowRight0005" x="236" y="10" width="102" height="126"/>
+	<SubTexture name="arrowRight-press0000" x="348" y="10" width="102" height="126"/>
+	<SubTexture name="arrowRight-press0001" x="348" y="10" width="102" height="126"/>
+	<SubTexture name="arrowRight-press0002" x="348" y="10" width="102" height="126"/>
+	<SubTexture name="arrowRight-press0003" x="348" y="10" width="102" height="126"/>
+	<SubTexture name="arrowRight-press0004" x="348" y="10" width="102" height="126"/>
+	<SubTexture name="arrowRight-press0005" x="348" y="10" width="102" height="126"/>
+	<SubTexture name="arrowRight-press0006" x="348" y="10" width="102" height="126"/>
+	<SubTexture name="arrowRight-press0007" x="348" y="10" width="102" height="126"/>
+	<SubTexture name="arrowRight-press0008" x="348" y="10" width="102" height="126"/>
+	<SubTexture name="arrowRight-press0009" x="348" y="10" width="102" height="126"/>
+	<SubTexture name="arrowRight-press0010" x="348" y="10" width="102" height="126"/>
+</TextureAtlas>

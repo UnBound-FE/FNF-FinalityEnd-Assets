@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="noteSplashes.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="note splash blue 10000" x="10" y="10" width="107" height="109" frameX="-72" frameY="-69" frameWidth="244" frameHeight="251"/>
+	<SubTexture name="note splash blue 10001" x="127" y="10" width="113" height="114" frameX="-69" frameY="-65" frameWidth="244" frameHeight="251"/>
+	<SubTexture name="note splash blue 10002" x="250" y="10" width="208" height="185" frameX="-23" frameY="-33" frameWidth="244" frameHeight="251"/>
+	<SubTexture name="note splash blue 10003" x="10" y="205" width="244" height="251"/>
+	<SubTexture name="note splash blue 10004" x="264" y="205" width="208" height="185" frameX="-23" frameY="-33" frameWidth="244" frameHeight="251"/>
+	<SubTexture name="note splash blue 10005" x="127" y="10" width="113" height="114" frameX="-69" frameY="-65" frameWidth="244" frameHeight="251"/>
+	<SubTexture name="note splash blue 10006" x="10" y="10" width="107" height="109" frameX="-72" frameY="-69" frameWidth="244" frameHeight="251"/>
+	<SubTexture name="note splash green 10000" x="10" y="10" width="107" height="109" frameX="-72" frameY="-69" frameWidth="244" frameHeight="251"/>
+	<SubTexture name="note splash green 10001" x="127" y="10" width="113" height="114" frameX="-69" frameY="-65" frameWidth="244" frameHeight="251"/>
+	<SubTexture name="note splash green 10002" x="250" y="10" width="208" height="185" frameX="-23" frameY="-33" frameWidth="244" frameHeight="251"/>
+	<SubTexture name="note splash green 10003" x="10" y="205" width="244" height="251"/>
+	<SubTexture name="note splash green 10004" x="264" y="205" width="208" height="185" frameX="-23" frameY="-33" frameWidth="244" frameHeight="251"/>
+	<SubTexture name="note splash green 10005" x="127" y="10" width="113" height="114" frameX="-69" frameY="-65" frameWidth="244" frameHeight="251"/>
+	<SubTexture name="note splash green 10006" x="10" y="10" width="107" height="109" frameX="-72" frameY="-69" frameWidth="244" frameHeight="251"/>
+	<SubTexture name="note splash purple 10000" x="10" y="10" width="107" height="109" frameX="-72" frameY="-69" frameWidth="244" frameHeight="251"/>
+	<SubTexture name="note splash purple 10001" x="127" y="10" width="113" height="114" frameX="-69" frameY="-65" frameWidth="244" frameHeight="251"/>
+	<SubTexture name="note splash purple 10002" x="250" y="10" width="208" height="185" frameX="-23" frameY="-33" frameWidth="244" frameHeight="251"/>
+	<SubTexture name="note splash purple 10003" x="10" y="205" width="244" height="251"/>
+	<SubTexture name="note splash purple 10004" x="264" y="205" width="208" height="185" frameX="-23" frameY="-33" frameWidth="244" frameHeight="251"/>
+	<SubTexture name="note splash purple 10005" x="127" y="10" width="113" height="114" frameX="-69" frameY="-65" frameWidth="244" frameHeight="251"/>
+	<SubTexture name="note splash purple 10006" x="10" y="10" width="107" height="109" frameX="-72" frameY="-69" frameWidth="244" frameHeight="251"/>
+	<SubTexture name="note splash red 10000" x="10" y="10" width="107" height="109" frameX="-72" frameY="-69" frameWidth="244" frameHeight="251"/>
+	<SubTexture name="note splash red 10001" x="127" y="10" width="113" height="114" frameX="-69" frameY="-65" frameWidth="244" frameHeight="251"/>
+	<SubTexture name="note splash red 10002" x="250" y="10" width="208" height="185" frameX="-23" frameY="-33" frameWidth="244" frameHeight="251"/>
+	<SubTexture name="note splash red 10003" x="10" y="205" width="244" height="251"/>
+	<SubTexture name="note splash red 10004" x="264" y="205" width="208" height="185" frameX="-23" frameY="-33" frameWidth="244" frameHeight="251"/>
+	<SubTexture name="note splash red 10005" x="127" y="10" width="113" height="114" frameX="-69" frameY="-65" frameWidth="244" frameHeight="251"/>
+	<SubTexture name="note splash red 10006" x="10" y="10" width="107" height="109" frameX="-72" frameY="-69" frameWidth="244" frameHeight="251"/>
+</TextureAtlas>

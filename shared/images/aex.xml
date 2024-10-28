@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="aex.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="aex0000" x="10" y="10" width="306" height="331" frameX="-4" frameY="-2" frameWidth="310" frameHeight="333"/>
+	<SubTexture name="aex0001" x="10" y="10" width="306" height="331" frameX="-4" frameY="-2" frameWidth="310" frameHeight="333"/>
+	<SubTexture name="aex0002" x="326" y="10" width="305" height="327" frameX="-4" frameY="-6" frameWidth="310" frameHeight="333"/>
+	<SubTexture name="aex0003" x="326" y="10" width="305" height="327" frameX="-4" frameY="-6" frameWidth="310" frameHeight="333"/>
+	<SubTexture name="aex0004" x="641" y="10" width="308" height="331" frameX="-2" frameY="-2" frameWidth="310" frameHeight="333"/>
+	<SubTexture name="aex0005" x="641" y="10" width="308" height="331" frameX="-2" frameY="-2" frameWidth="310" frameHeight="333"/>
+	<SubTexture name="aex0006" x="10" y="351" width="309" height="332" frameX="-1" frameY="-1" frameWidth="310" frameHeight="333"/>
+	<SubTexture name="aex0007" x="10" y="351" width="309" height="332" frameX="-1" frameY="-1" frameWidth="310" frameHeight="333"/>
+	<SubTexture name="aex0008" x="329" y="351" width="310" height="333"/>
+	<SubTexture name="aex0009" x="329" y="351" width="310" height="333"/>
+	<SubTexture name="aex0010" x="649" y="351" width="310" height="333"/>
+	<SubTexture name="aex0011" x="649" y="351" width="310" height="333"/>
+	<SubTexture name="aex0012" x="649" y="351" width="310" height="333"/>
+	<SubTexture name="aex0013" x="649" y="351" width="310" height="333"/>
+	<SubTexture name="aex0014" x="649" y="351" width="310" height="333"/>
+</TextureAtlas>

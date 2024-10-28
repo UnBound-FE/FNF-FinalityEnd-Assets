@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pico's gun.png">
+	<!-- Created with Adobe Animate version 24.0.3.19 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="week30000" x="0" y="0" width="657" height="573" frameX="-30" frameY="-23" frameWidth="688" frameHeight="626"/>
+	<SubTexture name="week30001" x="0" y="0" width="657" height="573" frameX="-30" frameY="-23" frameWidth="688" frameHeight="626"/>
+	<SubTexture name="week30002" x="657" y="0" width="688" height="603" frameX="0" frameY="-23" frameWidth="688" frameHeight="626"/>
+	<SubTexture name="week30003" x="657" y="0" width="688" height="603" frameX="0" frameY="-23" frameWidth="688" frameHeight="626"/>
+	<SubTexture name="week30004" x="1345" y="0" width="658" height="599" frameX="-24" frameY="-3" frameWidth="688" frameHeight="626"/>
+	<SubTexture name="week30005" x="1345" y="0" width="658" height="599" frameX="-24" frameY="-3" frameWidth="688" frameHeight="626"/>
+	<SubTexture name="week30006" x="0" y="603" width="652" height="600" frameX="-26" frameY="0" frameWidth="688" frameHeight="626"/>
+	<SubTexture name="week30007" x="0" y="603" width="652" height="600" frameX="-26" frameY="0" frameWidth="688" frameHeight="626"/>
+</TextureAtlas>

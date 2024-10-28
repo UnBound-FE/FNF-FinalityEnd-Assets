@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shexe1.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="shexe10000" x="10" y="10" width="414" height="255" frameX="0" frameY="-6" frameWidth="414" frameHeight="262"/>
+	<SubTexture name="shexe10001" x="10" y="10" width="414" height="255" frameX="0" frameY="-6" frameWidth="414" frameHeight="262"/>
+	<SubTexture name="shexe10002" x="434" y="10" width="414" height="252" frameX="0" frameY="-10" frameWidth="414" frameHeight="262"/>
+	<SubTexture name="shexe10003" x="434" y="10" width="414" height="252" frameX="0" frameY="-10" frameWidth="414" frameHeight="262"/>
+	<SubTexture name="shexe10004" x="10" y="275" width="411" height="259" frameX="0" frameY="-2" frameWidth="414" frameHeight="262"/>
+	<SubTexture name="shexe10005" x="10" y="275" width="411" height="259" frameX="0" frameY="-2" frameWidth="414" frameHeight="262"/>
+	<SubTexture name="shexe10006" x="431" y="275" width="411" height="260" frameX="0" frameY="-1" frameWidth="414" frameHeight="262"/>
+	<SubTexture name="shexe10007" x="431" y="275" width="411" height="260" frameX="0" frameY="-1" frameWidth="414" frameHeight="262"/>
+	<SubTexture name="shexe10008" x="10" y="545" width="411" height="260" frameX="0" frameY="-1" frameWidth="414" frameHeight="262"/>
+	<SubTexture name="shexe10009" x="10" y="545" width="411" height="260" frameX="0" frameY="-1" frameWidth="414" frameHeight="262"/>
+	<SubTexture name="shexe10010" x="431" y="545" width="411" height="261" frameX="0" frameY="0" frameWidth="414" frameHeight="262"/>
+	<SubTexture name="shexe10011" x="431" y="545" width="411" height="261" frameX="0" frameY="0" frameWidth="414" frameHeight="262"/>
+	<SubTexture name="shexe10012" x="431" y="545" width="411" height="261" frameX="0" frameY="0" frameWidth="414" frameHeight="262"/>
+	<SubTexture name="shexe10013" x="431" y="545" width="411" height="261" frameX="0" frameY="0" frameWidth="414" frameHeight="262"/>
+</TextureAtlas>

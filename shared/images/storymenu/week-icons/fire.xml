@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fire.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="week20000" x="5" y="5" width="726" height="484" frameX="0" frameY="-48" frameWidth="726" frameHeight="532"/>
+	<SubTexture name="week20001" x="751" y="5" width="726" height="496" frameX="0" frameY="-36" frameWidth="726" frameHeight="532"/>
+	<SubTexture name="week20002" x="1497" y="5" width="697" height="530" frameX="-29" frameY="-2" frameWidth="726" frameHeight="532"/>
+	<SubTexture name="week20003" x="2214" y="5" width="697" height="530" frameX="-29" frameY="-2" frameWidth="726" frameHeight="532"/>
+	<SubTexture name="week20004" x="2931" y="5" width="642" height="532" frameX="-69" frameY="0" frameWidth="726" frameHeight="532"/>
+	<SubTexture name="week20005" x="5" y="557" width="667" height="532" frameX="-30" frameY="0" frameWidth="726" frameHeight="532"/>
+	<SubTexture name="week2-accept0000" x="692" y="557" width="785" height="761" frameX="0" frameY="-147" frameWidth="795" frameHeight="908"/>
+	<SubTexture name="week2-accept0001" x="1497" y="557" width="778" height="824" frameX="-4" frameY="-84" frameWidth="795" frameHeight="908"/>
+	<SubTexture name="week2-accept0002" x="2295" y="557" width="770" height="783" frameX="-7" frameY="-125" frameWidth="795" frameHeight="908"/>
+	<SubTexture name="week2-accept0003" x="3085" y="557" width="753" height="908" frameX="-34" frameY="0" frameWidth="795" frameHeight="908"/>
+	<SubTexture name="week2-accept0004" x="5" y="1485" width="778" height="861" frameX="-17" frameY="-47" frameWidth="795" frameHeight="908"/>
+	<SubTexture name="week2-accept0005" x="803" y="1485" width="692" height="700" frameX="-35" frameY="-208" frameWidth="795" frameHeight="908"/>
+	<SubTexture name="week2-accept0006" x="1515" y="1485" width="712" height="806" frameX="-35" frameY="-102" frameWidth="795" frameHeight="908"/>
+	<SubTexture name="week2-accept0007" x="2247" y="1485" width="667" height="532" frameX="-35" frameY="-376" frameWidth="795" frameHeight="908"/>
+</TextureAtlas>
