@@ -1,0 +1,3 @@
+v1 = on/off
+v2 = speed, distance
+default - 1.8, 160

@@ -1,0 +1,2 @@
+v1 = angle
+v2 = seconds
