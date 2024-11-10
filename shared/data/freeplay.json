@@ -1,0 +1,41 @@
+{
+    //не трогай этот "data", он и служит во всём
+    "data": [
+        //можешь скопировать/вставить это
+        {
+            "charImage": "freepl/SPYpidoras", //пишешь где находиться картинка
+            "fadeTime": 1, //таймер когда чёрный экран пропадает
+            "index": 0 //индекс где надо выбирать, 0 - значит первое (т.д.)
+        },
+
+        {
+            "charImage": "freepl/badtimetrio",
+            "fadeTime": 1,
+            "index": 1
+        },
+
+        {
+            "charImage": "freepl/greenye",
+            "fadeTime": 1,
+            "index": 2
+        },
+
+        {
+            "charImage": "freepl/sexyvan",
+            "fadeTime": 1,
+            "index": 3
+        },
+
+        {
+            "charImage": "freepl/vns",
+            "fadeTime": 1,
+            "index": 4
+        },
+
+        {
+            "charImage": "freepl/theend",
+            "fadeTime": 1,
+            "index": 5
+        }
+    ]
+}
