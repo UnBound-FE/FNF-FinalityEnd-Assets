@@ -1,0 +1,43 @@
+{
+	"storyName": "",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "finale",
+	"freeplayColor": [
+		128,
+		0,
+		128
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"undead",
+			"endgameshiorii",
+			[
+				128,
+				0,
+				128
+			]
+
+		],
+		[
+			"binary",
+			"endgameshiorii",
+			[
+				128,
+				0,
+				128
+			]
+
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "pico's gun",
+	"hiddenUntilUnlocked": false
+}

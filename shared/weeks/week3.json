@@ -1,0 +1,43 @@
+{
+	"storyName": "",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "week-hell",
+	"weekBefore": "week2",
+	"freeplayColor": [
+		128,
+		0,
+		128
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		
+		[
+			"emprsus",
+			"vuradorb",
+			[
+				128,
+				0,
+				128
+			]
+		],
+		[
+			"destroyed",
+			"endgameshiorii",
+			[
+				128,
+				0,
+				128
+			]
+
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "fire"
+}
