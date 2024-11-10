@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shioriilove.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idles0000" x="0" y="0" width="957" height="1467"/>
+	<SubTexture name="idles0001" x="0" y="0" width="957" height="1467"/>
+	<SubTexture name="idles0002" x="957" y="0" width="957" height="1467"/>
+	<SubTexture name="idles0003" x="957" y="0" width="957" height="1467"/>
+	<SubTexture name="idles0004" x="1914" y="0" width="957" height="1467"/>
+	<SubTexture name="idles0005" x="1914" y="0" width="957" height="1467"/>
+	<SubTexture name="idles0006" x="2871" y="0" width="957" height="1467"/>
+	<SubTexture name="idles0007" x="2871" y="0" width="957" height="1467"/>
+	<SubTexture name="idles0008" x="2871" y="0" width="957" height="1467"/>
+	<SubTexture name="idles0009" x="2871" y="0" width="957" height="1467"/>
+	<SubTexture name="idles0010" x="2871" y="0" width="957" height="1467"/>
+	<SubTexture name="idles0011" x="2871" y="0" width="957" height="1467"/>
+	<SubTexture name="idles0012" x="2871" y="0" width="957" height="1467"/>
+</TextureAtlas>

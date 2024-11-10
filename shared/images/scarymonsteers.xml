@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="scarymonsteers.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spydaysuhariki0000" x="0" y="0" width="2152" height="404" frameX="-14" frameY="0" frameWidth="2183" frameHeight="414"/>
+	<SubTexture name="spydaysuhariki0001" x="0" y="0" width="2152" height="404" frameX="-14" frameY="0" frameWidth="2183" frameHeight="414"/>
+	<SubTexture name="spydaysuhariki0002" x="2152" y="0" width="2169" height="389" frameX="-12" frameY="-9" frameWidth="2183" frameHeight="414"/>
+	<SubTexture name="spydaysuhariki0003" x="2152" y="0" width="2169" height="389" frameX="-12" frameY="-9" frameWidth="2183" frameHeight="414"/>
+	<SubTexture name="spydaysuhariki0004" x="4321" y="0" width="2183" height="397" frameX="0" frameY="-17" frameWidth="2183" frameHeight="414"/>
+	<SubTexture name="spydaysuhariki0005" x="4321" y="0" width="2183" height="397" frameX="0" frameY="-17" frameWidth="2183" frameHeight="414"/>
+	<SubTexture name="spydaysuhariki0006" x="4321" y="0" width="2183" height="397" frameX="0" frameY="-17" frameWidth="2183" frameHeight="414"/>
+</TextureAtlas>
