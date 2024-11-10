@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "vurado back idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hi",
+			"indices": [],
+			"name": "vurado back turn around"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/vurado back",
+	"position": [
+		-900,
+		-890
+	],
+	"healthicon": "vanessasusssy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		1,
+		75
+	],
+	"camera_position": [
+		208,
+		370
+	],
+	"sing_duration": 4,
+	"scale": 0.7,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-152,
+				1133
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				360,
+				1150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				59,
+				993
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				45,
+				1195
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-320,
+				1334
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Megasus",
+	"position": [
+		150,
+		90
+	],
+	"healthicon": "megasus",
+	"flip_x": false,
+	"healthbar_colors": [
+		241,
+		0,
+		20
+	],
+	"camera_position": [
+		-1160,
+		-1640
+	],
+	"sing_duration": 4,
+	"scale": 2.4,
+	"_editor_isPlayer": false
+}

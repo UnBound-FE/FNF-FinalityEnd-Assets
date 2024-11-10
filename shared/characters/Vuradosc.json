@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-94,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Vurado left"
+		},
+		{
+			"offsets": [
+				12,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Vurado down"
+		},
+		{
+			"offsets": [
+				-1,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Vurado up"
+		},
+		{
+			"offsets": [
+				-4,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Vurado right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Vurado idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "bye",
+			"fps": 24,
+			"name": "Vurado disappear",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Vuradoscary",
+	"position": [
+		-240,
+		-500
+	],
+	"healthicon": "vanessasusssy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		1,
+		75
+	],
+	"camera_position": [
+		-302,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1.2,
+	"_editor_isPlayer": false
+}

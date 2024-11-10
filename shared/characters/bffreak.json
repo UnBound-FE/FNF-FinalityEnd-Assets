@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-47,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "DM"
+		},
+		{
+			"offsets": [
+				-52,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "UM"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-53,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				6
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "LM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-69,
+				5
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "RM",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-18,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-54,
+				26
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-94,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/bfreak",
+	"position": [
+		-20,
+		230
+	],
+	"healthicon": "bffr",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		168,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.1,
+	"_editor_isPlayer": true
+}
