@@ -8,7 +8,6 @@ textSettings = {
     size = 32
 }
 local allowCountdown = false;
-local videoStarted = false;
 local clickEnter = false;
 
 function onCreate()
@@ -17,15 +16,10 @@ end
 
 function onStartCountdown()
     if not allowCountdown then
-        if not videoStarted then
-            startVideo(videoMP4);
-            videoStarted = true;
-        else
-            doTweenAlpha('blackTween', 'blackfuck', .001, 1, 'quadInOut');
-            doTweenAlpha('textTween', 'pressTxt', 1.0, 2, 'quadInOut');
+        doTweenAlpha('blackTween', 'blackfuck', .001, 1, 'quadInOut');
+        doTweenAlpha('textTween', 'pressTxt', 1.0, 2, 'quadInOut');
 
-            clickEnter = true;
-        end
+        clickEnter = true;
 
         return Function_Stop;
     end
@@ -33,18 +27,18 @@ function onStartCountdown()
     return Function_Continue;
 end
 
-function onCreatePost()
+function onCreate()
     if not allowCountdown then
         makeLuaSprite('preview', imagePNG, 0, 0);
         setObjectCamera('preview', 'camOther');
         setGraphicSize('preview', screenWidth, screenHeight);
         addLuaSprite('preview', true);
-    
+
         makeLuaSprite('blackfuck');
         makeGraphic('blackfuck', screenWidth, screenHeight, '000000');
         setObjectCamera('blackfuck', 'camOther');
         addLuaSprite('blackfuck', true);
-    
+
         makeLuaText('pressTxt','Press Enter to Begin',1000,textSettings.x,textSettings.y)
         setTextFont('pressTxt','vcr.ttf')
         setTextSize('pressTxt',textSettings.size);
