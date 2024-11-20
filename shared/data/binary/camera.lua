@@ -1,5 +1,5 @@
 -- CHANGE THE OFFSET VARIABLE FOR MORE OR LESS CAMERA MOVEMENT!!
-local offset = 100
+local offset = 200
 --
 local function follow(data, mustPress, type)
 	if type ~= "No Animation" and type ~= "Hey!" and type ~= "Hurt Note" and (gfSection or mustPress == nil or mustPress == mustHitSection) then
