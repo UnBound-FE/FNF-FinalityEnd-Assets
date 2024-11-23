@@ -1,24 +1,25 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "deathConfirm",
-			"indices": [],
-			"name": "rb bf gameover confirm"
+			"fps": 24,
+			"name": "rb bf gameover confirm",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "deathLoop",
+			"fps": 24,
+			"name": "rb bf gameover waiting",
 			"indices": [
 				0,
 				1,
@@ -31,19 +32,18 @@
 				6,
 				6,
 				6
-			],
-			"name": "rb bf gameover waiting"
+			]
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "firstDeath",
-			"indices": [],
-			"name": "rb bf gameover appear"
+			"fps": 24,
+			"name": "rb bf gameover appear",
+			"indices": []
 		}
 	],
 	"vocals_file": "",
@@ -61,8 +61,8 @@
 		209
 	],
 	"camera_position": [
-		-950,
-		460
+		490,
+		100
 	],
 	"sing_duration": 4,
 	"scale": 0.7,
