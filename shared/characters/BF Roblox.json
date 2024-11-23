@@ -60,10 +60,10 @@
 				0,
 				0
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 25,
 			"anim": "singLEFTmiss",
-			"loop": false,
+			"indices": [],
 			"name": "rb bf miss left"
 		},
 		{
@@ -71,10 +71,10 @@
 				2,
 				7
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 25,
 			"anim": "singDOWNmiss",
-			"loop": false,
+			"indices": [],
 			"name": "rb bf miss down"
 		},
 		{
@@ -82,10 +82,10 @@
 				0,
 				0
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 25,
 			"anim": "singUPmiss",
-			"loop": false,
+			"indices": [],
 			"name": "rb bf miss up"
 		},
 		{
@@ -93,10 +93,10 @@
 				0,
 				0
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 25,
 			"anim": "singRIGHTmiss",
-			"loop": false,
+			"indices": [],
 			"name": "rb bf miss right"
 		}
 	],
@@ -105,7 +105,7 @@
 	"image": "characters/bf xml",
 	"position": [
 		-1070,
-		-240
+		-160
 	],
 	"healthicon": "bfpapa",
 	"flip_x": true,
@@ -115,10 +115,10 @@
 		209
 	],
 	"camera_position": [
-		0,
-		0
+		-780,
+		420
 	],
 	"sing_duration": 4,
-	"scale": 0.6,
+	"scale": 0.4,
 	"_editor_isPlayer": true
 }
