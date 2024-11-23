@@ -6,20 +6,9 @@
 				0,
 				0
 			],
-			"anim": "firstDeath",
-			"fps": 24,
-			"name": "bf xml dead kill",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
 			"anim": "deathConfirm",
 			"fps": 24,
-			"name": "bf xml dead confirm",
+			"name": "rb bf gameover confirm",
 			"indices": []
 		},
 		{
@@ -30,7 +19,7 @@
 			],
 			"anim": "deathLoop",
 			"fps": 24,
-			"name": "bf xml dead loop",
+			"name": "rb bf gameover waiting",
 			"indices": [
 				0,
 				1,
@@ -44,14 +33,25 @@
 				6,
 				6
 			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "rb bf gameover appear",
+			"indices": []
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
-	"image": "characters/bf xml dead",
+	"image": "characters/rb bf gameover",
 	"position": [
-		-390,
-		50
+		-1090,
+		-540
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -61,10 +61,10 @@
 		209
 	],
 	"camera_position": [
-		-90,
-		80
+		-470,
+		340
 	],
 	"sing_duration": 4,
-	"scale": 1,
+	"scale": 0.7,
 	"_editor_isPlayer": true
 }
