@@ -50,8 +50,8 @@
 	"no_antialiasing": false,
 	"image": "characters/rb bf gameover",
 	"position": [
-		-990,
-		-450
+		-1010,
+		-470
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -61,8 +61,8 @@
 		209
 	],
 	"camera_position": [
-		490,
-		100
+		460,
+		390
 	],
 	"sing_duration": 4,
 	"scale": 0.7,
