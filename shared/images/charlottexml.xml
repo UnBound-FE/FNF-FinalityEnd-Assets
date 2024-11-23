@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="charlottexml.png">
+<SubTexture name="charlottexml idle0000" x="0" y="0" width="264" height="438" frameX="-976" frameY="-551" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="charlottexml idle0001" x="791" y="0" width="263" height="433" frameX="-977" frameY="-552" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="charlottexml idle0002" x="789" y="438" width="264" height="426" frameX="-977" frameY="-553" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="charlottexml idle0003" x="0" y="871" width="264" height="424" frameX="-976" frameY="-553" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="charlottexml idle0004" x="1054" y="0" width="263" height="425" frameX="-977" frameY="-553" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="charlottexml idle0005" x="526" y="438" width="263" height="427" frameX="-977" frameY="-553" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="charlottexml idle0006" x="263" y="438" width="263" height="431" frameX="-977" frameY="-552" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="charlottexml idle0007" x="0" y="438" width="263" height="433" frameX="-977" frameY="-552" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="charlottexml idle0008" x="527" y="0" width="264" height="434" frameX="-976" frameY="-552" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="charlottexml idle0009" x="264" y="0" width="263" height="436" frameX="-977" frameY="-551" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="charlottexml idle0010" x="0" y="0" width="264" height="438" frameX="-976" frameY="-551" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="charlottexml idle0011" x="0" y="0" width="264" height="438" frameX="-976" frameY="-551" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="charlottexml idle0012" x="0" y="0" width="264" height="438" frameX="-976" frameY="-551" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="charlottexml idle0013" x="0" y="0" width="264" height="438" frameX="-976" frameY="-551" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="charlottexml idle0014" x="0" y="0" width="264" height="438" frameX="-976" frameY="-551" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="charlottexml idle0015" x="0" y="0" width="264" height="438" frameX="-976" frameY="-551" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="charlottexml idle0016" x="0" y="0" width="264" height="438" frameX="-976" frameY="-551" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="charlottexml idle0017" x="0" y="0" width="264" height="438" frameX="-976" frameY="-551" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="charlottexml idle0018" x="0" y="0" width="264" height="438" frameX="-976" frameY="-551" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="charlottexml idle0019" x="0" y="0" width="264" height="438" frameX="-976" frameY="-551" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="charlottexml idle0020" x="0" y="0" width="264" height="438" frameX="-976" frameY="-551" frameWidth="2560" frameHeight="1440" />
+</TextureAtlas>

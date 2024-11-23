@@ -3,12 +3,23 @@
 		{
 			"loop": false,
 			"offsets": [
+				3,
+				10
+			],
+			"anim": "singDOWN",
+			"fps": 25,
+			"name": "rb bf down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
 				0,
 				0
 			],
 			"anim": "idle",
 			"fps": 25,
-			"name": "bf xml idle",
+			"name": "rb bf idle",
 			"indices": []
 		},
 		{
@@ -19,18 +30,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 25,
-			"name": "bf xml left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singDOWN",
-			"fps": 25,
-			"name": "bf xml down",
+			"name": "rb bf left",
 			"indices": []
 		},
 		{
@@ -41,71 +41,71 @@
 			],
 			"anim": "singUP",
 			"fps": 25,
-			"name": "bf xml up",
+			"name": "rb bf up",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				48,
+				-17
 			],
 			"anim": "singRIGHT",
 			"fps": 25,
-			"name": "bf xml right",
+			"name": "rb bf right",
 			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"indices": [],
+			"fps": 25,
 			"anim": "singLEFTmiss",
-			"fps": 25,
-			"name": "bf xml mleft",
-			"indices": []
+			"loop": false,
+			"name": "rb bf miss left"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				0
+				2,
+				7
 			],
+			"indices": [],
+			"fps": 25,
 			"anim": "singDOWNmiss",
-			"fps": 25,
-			"name": "bf xml mdown",
-			"indices": []
+			"loop": false,
+			"name": "rb bf miss down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"indices": [],
+			"fps": 25,
 			"anim": "singUPmiss",
-			"fps": 25,
-			"name": "bf xml mup",
-			"indices": []
+			"loop": false,
+			"name": "rb bf miss up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "singRIGHTmiss",
+			"indices": [],
 			"fps": 25,
-			"name": "bf xml mright",
-			"indices": []
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "rb bf miss right"
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/bf xml",
 	"position": [
-		-420,
-		80
+		-1070,
+		-240
 	],
 	"healthicon": "bfpapa",
 	"flip_x": true,
@@ -119,6 +119,6 @@
 		0
 	],
 	"sing_duration": 4,
-	"scale": 1,
+	"scale": 0.6,
 	"_editor_isPlayer": true
 }

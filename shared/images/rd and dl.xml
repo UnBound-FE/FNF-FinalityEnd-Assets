@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rd and dl.png">
+<SubTexture name="rd and dl super flex0000" x="1554" y="504" width="776" height="503" frameX="-961" frameY="-748" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="rd and dl super flex0001" x="1554" y="1007" width="777" height="503" frameX="-960" frameY="-754" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="rd and dl super flex0002" x="0" y="1515" width="777" height="503" frameX="-960" frameY="-762" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="rd and dl super flex0003" x="0" y="0" width="777" height="505" frameX="-960" frameY="-764" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="rd and dl super flex0004" x="777" y="0" width="777" height="505" frameX="-960" frameY="-762" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="rd and dl super flex0005" x="0" y="505" width="776" height="505" frameX="-961" frameY="-759" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="rd and dl super flex0006" x="776" y="505" width="777" height="505" frameX="-960" frameY="-756" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="rd and dl super flex0007" x="0" y="1010" width="777" height="505" frameX="-960" frameY="-752" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="rd and dl super flex0008" x="777" y="1010" width="777" height="504" frameX="-960" frameY="-751" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="rd and dl super flex0009" x="1554" y="0" width="777" height="504" frameX="-960" frameY="-749" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="rd and dl super flex0010" x="1554" y="504" width="776" height="503" frameX="-961" frameY="-748" frameWidth="2560" frameHeight="1440" />
+</TextureAtlas>

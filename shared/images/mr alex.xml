@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mr alex.png">
+<SubTexture name="mr alex flex0000" x="0" y="1463" width="573" height="451" frameX="-1512" frameY="-500" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="mr alex flex0001" x="1710" y="469" width="572" height="459" frameX="-1508" frameY="-492" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="mr alex flex0002" x="571" y="982" width="571" height="475" frameX="-1498" frameY="-476" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="mr alex flex0003" x="1140" y="0" width="570" height="487" frameX="-1493" frameY="-464" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="mr alex flex0004" x="0" y="0" width="570" height="493" frameX="-1492" frameY="-458" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="mr alex flex0005" x="570" y="0" width="570" height="493" frameX="-1493" frameY="-458" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="mr alex flex0006" x="0" y="493" width="571" height="489" frameX="-1494" frameY="-462" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="mr alex flex0007" x="0" y="982" width="571" height="481" frameX="-1499" frameY="-470" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="mr alex flex0008" x="1710" y="0" width="573" height="469" frameX="-1504" frameY="-482" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="mr alex flex0009" x="1710" y="928" width="572" height="459" frameX="-1509" frameY="-492" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="mr alex flex0010" x="573" y="1463" width="573" height="451" frameX="-1512" frameY="-500" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="mr alex flex0011" x="1721" y="1914" width="573" height="443" frameX="-1518" frameY="-508" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="mr alex flex0012" x="1154" y="2365" width="575" height="437" frameX="-1523" frameY="-514" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="mr alex flex0013" x="577" y="2365" width="577" height="438" frameX="-1522" frameY="-513" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="mr alex flex0014" x="0" y="2365" width="577" height="443" frameX="-1520" frameY="-508" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="mr alex flex0015" x="1146" y="1914" width="575" height="448" frameX="-1517" frameY="-503" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="mr alex flex0016" x="1146" y="1463" width="573" height="451" frameX="-1516" frameY="-500" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="mr alex flex0017" x="2283" y="0" width="572" height="451" frameX="-1515" frameY="-500" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="mr alex flex0018" x="2283" y="451" width="572" height="450" frameX="-1514" frameY="-501" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="mr alex flex0019" x="0" y="1914" width="573" height="451" frameX="-1512" frameY="-500" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="mr alex flex0020" x="573" y="1914" width="573" height="451" frameX="-1512" frameY="-500" frameWidth="2560" frameHeight="1440" />
+</TextureAtlas>
