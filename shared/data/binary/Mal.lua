@@ -57,7 +57,7 @@ local SWP_NOMOVE = 0x0002
 local SWP_NOSIZE = 0x0001
 
 function onStepHit()
-    if curStep == 901 then
+    if curStep == 848 then
         cancelTween('winMoveX')
         cancelTween('winMoveY')
         runHaxeCode([[
@@ -80,7 +80,7 @@ function onStepHit()
             game.modchartTweens.set(tag2, FlxTween.tween(Lib.application.window, {y: changey + 50}, 3, {startDelay: 0.5, ease: FlxEase.cubeInOut, type: 4}));
         ]])
 
-    elseif curStep == 771 then
+    elseif curStep == 976 then
             runHaxeCode([[
                 var tag = 'winMoveX';
 
@@ -93,7 +93,7 @@ function onStepHit()
                 }
                 game.modchartTweens.set(tag, FlxTween.tween(Lib.application.window, {x: changex + 50}, 3, {ease: FlxEase.cubeInOut, type: 4}));
             ]])
-    elseif curStep == 1084 then
+    elseif curStep == 1104 then
         cancelTween('winMoveX')
         cancelTween('winMoveY')
         runHaxeCode([[
