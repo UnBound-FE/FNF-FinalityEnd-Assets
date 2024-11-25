@@ -1,10 +1,3 @@
-if buildTarget == 'android' then
-    return 
-end
-
-if not getModSetting('forceWindow') then
-    return
-end
 
 local ffi = require("ffi")
 ffi.cdef([[
@@ -86,11 +79,11 @@ function onStepHit()
             game.modchartTweens.set(tag, FlxTween.tween(Lib.application.window, {x: changex, y: changey}, 0.5, {ease: FlxEase.expoOut}));
             game.modchartTweens.set(tag2, FlxTween.tween(Lib.application.window, {y: changey + 50}, 3, {startDelay: 0.5, ease: FlxEase.cubeInOut, type: 4}));
         ]])
-    
+
     elseif curStep == 771 then
             runHaxeCode([[
                 var tag = 'winMoveX';
-    
+
                 var changex = getVar('winX');
                 var changey = getVar('winY');
                 if(game.modchartTweens.exists(tag)) {
@@ -132,7 +125,7 @@ function onEvent(n,v1,v2)
             ]])
             local hwnd = ffi.C.GetActiveWindow()
             ffi.C.SetWindowLongA(hwnd, -20, 0x00080000)
-            ffi.C.SetLayeredWindowAttributes(hwnd, ffi.C.COLOR_REF, 0, 0x00000001)        
+            ffi.C.SetLayeredWindowAttributes(hwnd, ffi.C.COLOR_REF, 0, 0x00000001)
         end
         if v1 == '4' then
             local hwnd = ffi.C.GetActiveWindow()
