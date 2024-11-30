@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
-			"offsets": [
-				3,
-				10
-			],
-			"anim": "singDOWN",
-			"fps": 25,
-			"name": "rb bf down",
-			"indices": []
-		},
-		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 25,
 			"anim": "idle",
-			"fps": 25,
-			"name": "rb bf idle",
-			"indices": []
+			"indices": [],
+			"name": "bf xml idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				0
+				-72,
+				20
 			],
+			"loop": false,
+			"fps": 25,
 			"anim": "singLEFT",
-			"fps": 25,
-			"name": "rb bf left",
-			"indices": []
+			"indices": [],
+			"name": "bf xml left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 25,
-			"name": "rb bf up",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf xml down"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				48,
-				-17
+				0,
+				0
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 25,
-			"name": "rb bf right",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "bf xml up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf xml right"
 		},
 		{
 			"offsets": [
@@ -64,18 +64,18 @@
 			"fps": 25,
 			"anim": "singLEFTmiss",
 			"indices": [],
-			"name": "rb bf miss left"
+			"name": "bf xml mleft"
 		},
 		{
 			"offsets": [
-				2,
-				7
+				0,
+				0
 			],
 			"loop": false,
 			"fps": 25,
 			"anim": "singDOWNmiss",
 			"indices": [],
-			"name": "rb bf miss down"
+			"name": "bf xml mdown"
 		},
 		{
 			"offsets": [
@@ -86,7 +86,7 @@
 			"fps": 25,
 			"anim": "singUPmiss",
 			"indices": [],
-			"name": "rb bf miss up"
+			"name": "bf xml mup"
 		},
 		{
 			"offsets": [
@@ -97,17 +97,17 @@
 			"fps": 25,
 			"anim": "singRIGHTmiss",
 			"indices": [],
-			"name": "rb bf miss right"
+			"name": "bf xml mright"
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/bf xml",
 	"position": [
-		-1070,
-		-160
+		-430,
+		180
 	],
-	"healthicon": "bfpapa",
+	"healthicon": "bf",
 	"flip_x": true,
 	"healthbar_colors": [
 		49,
@@ -115,10 +115,10 @@
 		209
 	],
 	"camera_position": [
-		-780,
-		420
+		-200,
+		170
 	],
 	"sing_duration": 4,
-	"scale": 0.4,
+	"scale": 0.65,
 	"_editor_isPlayer": true
 }
