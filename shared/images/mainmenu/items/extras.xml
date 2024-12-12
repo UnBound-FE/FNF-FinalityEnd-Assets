@@ -1,18 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="menu_extras.png">
+<TextureAtlas imagePath="extras.png">
 	<!-- Created with Adobe Animate version 23.0.2.103 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="extras basic0000" x="0" y="0" width="460" height="180"/>
-	<SubTexture name="extras white0000" x="0" y="0" width="460" height="180"/>
-	<SubTexture name="extras white0001" x="0" y="0" width="460" height="180"/>
-	<SubTexture name="extras white0002" x="460" y="0" width="460" height="180" frameX="-5" frameY="-3" frameWidth="465" frameHeight="183"/>
-	<SubTexture name="extras white0003" x="460" y="0" width="460" height="180" frameX="-5" frameY="-3" frameWidth="465" frameHeight="183"/>
-	<SubTexture name="extras white0004" x="920" y="0" width="460" height="180" frameX="-3" frameY="-1" frameWidth="465" frameHeight="183"/>
-	<SubTexture name="extras white0005" x="920" y="0" width="460" height="180" frameX="-3" frameY="-1" frameWidth="465" frameHeight="183"/>
-	<SubTexture name="extras white0006" x="0" y="0" width="460" height="180"/>
-	<SubTexture name="extras white0007" x="0" y="0" width="460" height="180"/>
-	<SubTexture name="extras white0008" x="460" y="0" width="460" height="180" frameX="-5" frameY="-3" frameWidth="465" frameHeight="183"/>
-	<SubTexture name="extras white0009" x="460" y="0" width="460" height="180" frameX="-5" frameY="-3" frameWidth="465" frameHeight="183"/>
-	<SubTexture name="extras white0010" x="920" y="0" width="460" height="180" frameX="-3" frameY="-1" frameWidth="465" frameHeight="183"/>
-	<SubTexture name="extras white0011" x="920" y="0" width="460" height="180" frameX="-3" frameY="-1" frameWidth="465" frameHeight="183"/>
+	<SubTexture name="extras basic0000" x="10" y="10" width="365" height="364"/>
+	<SubTexture name="extras white0000" x="385" y="10" width="365" height="364"/>
 </TextureAtlas>
