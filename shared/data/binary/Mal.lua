@@ -108,6 +108,17 @@ function onStepHit()
             }
             game.modchartTweens.set(tag, FlxTween.tween(Lib.application.window, {x: changex, y: changey}, 0.5, {ease: FlxEase.cubeInOut}));
         ]])
+    elseif curStep == 1226 then
+        runHaxeCode([[
+            var tag = 'winMoveXY';
+            if(game.modchartTweens.exists(tag)) {
+                game.modchartTweens.get(tag).cancel();
+                game.modchartTweens.get(tag).destroy();
+                game.modchartTweens.remove(tag);
+            }
+            game.modchartTweens.set(tag, FlxTween.tween(Lib.application.window, {x: 0, y: 0, width: getVar('winSX'), height: getVar('winSY')-1}, 1.6, {ease: FlxEase.expoIn}));
+        ]])
+        runTimer('wall',2)
     end
 end
 
