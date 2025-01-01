@@ -1,0 +1,9 @@
+Thing(s) tweenable: amount, pixel, static
+
+Value 1: Thing to tween,ease
+Value 2: Value the tweening is lerping towards,duration
+
+If tweening static:
+Value 2: Alpha of the static,duration
+(bounded from 0.0001 through 1;
+tween starts from there and tweened down to 0.0001)
