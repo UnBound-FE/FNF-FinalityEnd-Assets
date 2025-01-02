@@ -16,12 +16,12 @@
 		0,
 		0
 	],
-	"defaultZoom": 0.8,
+	"defaultZoom": 0.9,
 	"opponent": [
 		-450,
 		50
 	],
-	"camera_speed": 4,
+	"camera_speed": 1,
 	"directory": "",
 	"camera_opponent": [
 		100,
