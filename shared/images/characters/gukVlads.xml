@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gukVlads.png">
+	<!-- Created with Adobe Animate version 24.0.6.54 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="475" height="609" frameX="0" frameY="-6" frameWidth="475" frameHeight="615"/>
+	<SubTexture name="idle0001" x="0" y="0" width="475" height="609" frameX="0" frameY="-6" frameWidth="475" frameHeight="615"/>
+	<SubTexture name="idle0002" x="475" y="0" width="472" height="607" frameX="-1" frameY="-5" frameWidth="475" frameHeight="615"/>
+	<SubTexture name="idle0003" x="475" y="0" width="472" height="607" frameX="-1" frameY="-5" frameWidth="475" frameHeight="615"/>
+	<SubTexture name="idle0004" x="947" y="0" width="464" height="607" frameX="-7" frameY="-1" frameWidth="475" frameHeight="615"/>
+	<SubTexture name="idle0005" x="947" y="0" width="464" height="607" frameX="-7" frameY="-1" frameWidth="475" frameHeight="615"/>
+	<SubTexture name="idle0006" x="1411" y="0" width="462" height="607" frameX="-8" frameY="0" frameWidth="475" frameHeight="615"/>
+</TextureAtlas>
