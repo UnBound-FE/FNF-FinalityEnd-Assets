@@ -16,4 +16,9 @@ function onStepHit()
         doTweenAlpha('bgbin', 'bgbin', 0, 0.3, 'linear')
         doTweenAlpha('b', 'b', 0, 0.3, 'linear')
     end
+    if curStep == 1179 then
+        doTweenAlpha('bgbin', 'bgbin', 1, 0.1, 'linear')
+        doTweenAlpha('b', 'b', 1, 0.1, 'linear')
+
+    end
 end
