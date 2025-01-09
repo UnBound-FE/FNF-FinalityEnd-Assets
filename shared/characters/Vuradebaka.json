@@ -1,81 +1,81 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "NMI Vurado Front idle"
+			"fps": 24,
+			"name": "NMI Vurado Front idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				40,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "NMI Vurado Front left"
+			"fps": 24,
+			"name": "NMI Vurado Front left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				35,
 				-108
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "NMI Vurado Front down"
+			"fps": 24,
+			"name": "NMI Vurado Front down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "NMI Vurado Front up"
+			"fps": 24,
+			"name": "NMI Vurado Front up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-40,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "NMI Vurado Front right"
+			"fps": 24,
+			"name": "NMI Vurado Front right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "sasas",
-			"indices": [],
-			"name": "NMI Vurado Front appear"
+			"fps": 24,
+			"name": "NMI Vurado Front appear",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "sasas1",
-			"indices": [],
-			"name": "NMI Vurado Front phrase"
+			"fps": 24,
+			"name": "NMI Vurado Front phrase",
+			"indices": []
 		}
 	],
 	"vocals_file": "",
@@ -93,7 +93,7 @@
 		75
 	],
 	"camera_position": [
-		-692,
+		-672,
 		-190
 	],
 	"sing_duration": 4,
